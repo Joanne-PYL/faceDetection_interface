@@ -1,0 +1,41 @@
+{
+  "interactivity": {
+    "events": {
+      "onHover": {
+        "enable": true,
+        "mode": "bubble"
+      },
+      "//resize": true
+    },
+    "modes": {
+      "bubble": {
+        "opacity": 0.8,
+        "size": 10,
+        "color": {
+          "value": "#0000ff"
+        }
+      }
+    }
+  },
+  "particles": {
+    "color": {
+      "value": "#ffffff"
+    },
+    "links": {
+      "color": "#ffffff",
+      "distance": 150,
+      "enable": true,
+      "opacity": 0.5
+    },
+    "collisions": {
+      "enable": true
+    },
+    "move": {
+      "enable": true
+    },
+    "opacity": {
+      "value": 0.5
+    }
+  },
+  "detectRetina": true
+}
